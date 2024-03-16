@@ -4,6 +4,7 @@ First Project
 Task
 
 Điền x vào [] khi hoàn thành:
+
 Deadline 19/03
 - [] Thảo: nhiệm vụ đọc file, tách file thành từng dòng nhỏ, lưu file "readfile.py"
 - [] Nguyên Anh: nhiệm vụ đọc file, tách file thành từng dòng nhỏ, lưu file "readfile.py"
