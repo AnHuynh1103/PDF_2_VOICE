@@ -7,7 +7,7 @@ path = open('file.pdf', 'rb')
 # creat a PdfReader object 
 pdfReader = PyPDF2.PdfReader(path) 
 
-# start at the 4th page  
+# start at the 5th page  
 # read the page. 
 from_page = pdfReader.pages[4] 
 
