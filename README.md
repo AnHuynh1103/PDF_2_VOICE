@@ -11,7 +11,7 @@ Deadline 19/03
 - [] Như Ý: đọc file, tách file thành từng dòng nhỏ, lưu file "readfile.py"
 
 Deadline 21/03
-- [] An: Convert PDF to Text, lưu file pdf2text.py
+- [x] An: Convert PDF to Text, lưu file pdf2text.py
 - [] Phú: Convert PDF to Text, lưu file pdf2text.py
 
 Deadline 23/03
